@@ -269,16 +269,5 @@ elif x == "DIVIDE":
 		
 	else :
 		print ('WRONG INPUT')
-		
-	
-
-
-
-
-
-
-
-
-
 else:
 	print ('OPERATION NOT FOUND')
