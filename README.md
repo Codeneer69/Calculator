@@ -1,3 +1,3 @@
-# Calculator in python
-Hey </coders> here is Calculator in python.
+# Calculators
 
+Calculators using different programming languages.
